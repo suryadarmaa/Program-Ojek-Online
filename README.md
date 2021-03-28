@@ -9,4 +9,4 @@ NIM: 2005551063
 
 Kelas: Pemrograman Berbasis Objek D
 
-//class dari program dapat dilihat pada folder "OKjek"//
+//class dari program dapat dilihat pada folder "AYO"//
